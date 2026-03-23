@@ -12,7 +12,7 @@ Repositório com anotações dos cursos e experimentos de programação.
 
 ## Objetivo
 
-Organizar todo o aprendizado em programação em um único local.
+Organizar todo o aprendizado em programação em um único local e exercitar o uso do git e git hub.
 
 
 
