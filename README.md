@@ -4,8 +4,9 @@ Repositório com anotações dos cursos e experimentos de programação.
 
 ## Conteúdo
 
-- 🔧 [Git](git/README.md)
-- 🐍 [Python](python/README.md)
+- 🔧 [Git](Git-Estudos/README.md)
+- 🐍 [Python](Python-Estudos/README.md)
+- 🗃️ [SQL](SQL-Estudos/README.md)
 
 
 ---

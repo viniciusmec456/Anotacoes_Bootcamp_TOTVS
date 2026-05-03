@@ -34,3 +34,9 @@ No terminal, escreva *PYTHON*, ou chame o script que você deseja rodar com o co
 **Snake case:** Termo utilizado para descrever variáveis ou nomes com as palavras separadas por *underscore*.
 
 **EX:** *Projeto_Python_Calculadora*
+
+## ESTRUTURAS DE REPETIÇÃO
+
+**Diferença entre FOR e WHILE**
+
+O comando FOR é utilizado quando é necessário repetir a ação por um número conhecido de vezes. Já o WHILE é utilizado quando não se sabe ao certo quantas vezes a ação se repetirá.
